@@ -1,1 +1,1 @@
-# IOT-Project
+Developed an IoT-based wearable device using Arduino Uno and water sensors to monitor underwater pressure in real time and detect abnormalities Triggered audible alerts via a buzzer to enhance user safety.
